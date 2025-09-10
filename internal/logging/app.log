@@ -1,0 +1,3 @@
+{"level":"info","timestamp":"2025-09-10T22:18:32.431+0330","caller":"ticketsvc/main.go:33","msg":"Application started","pid":181033}
+{"level":"info","timestamp":"2025-09-10T22:18:32.431+0330","caller":"domain/event.go:38","msg":"Congratulations! Your seats have been reserved!","pid":181033}
+{"level":"info","timestamp":"2025-09-10T22:18:32.431+0330","caller":"domain/event.go:38","msg":"Congratulations! Your seats have been reserved!","pid":181033}

@@ -15,7 +15,7 @@ type NewLogger struct {
 var Sugar *NewLogger
 
 func InitLogger() {
-	logfile, err := os.OpenFile("app.log", os.O_APPEND|os.O_CREATE|os.O_WRONLY, 0666)
+	logfile, err := os.OpenFile("internal/logging/app.log", os.O_APPEND|os.O_CREATE|os.O_WRONLY, 0666)
 	if err != nil {
 		fmt.Println("Failed to open log file:", err)
 		os.Exit(1)
