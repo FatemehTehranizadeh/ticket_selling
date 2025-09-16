@@ -1,1 +1,1 @@
-A project for selling and buying tickets
+A project in Go for selling and buying tickets
