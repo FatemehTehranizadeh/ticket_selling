@@ -1,4 +1,4 @@
-# Ticket Selling (worker-pool demo)
+# Ticket Selling
 
 A small Go project that simulates a ticket selling / buying system using a worker-pool pattern.
 
