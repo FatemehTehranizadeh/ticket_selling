@@ -31,7 +31,7 @@ It is designed to be extended later with a persistent database (MySQL), an HTTP 
 
 ```bash
 # clone
-git clone https://github.com/<you>/ticket_selling.git
+git clone https://github.com/FatemehTehranizadeh/ticket_selling.git
 cd ticket_selling
 
 # build & run demo
